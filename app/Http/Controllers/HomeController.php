@@ -12,7 +12,7 @@ class HomeController extends Controller
     }
     Public function index2()
     {
-        return view('admin_pelatihan.index');
+        return view('kasir.index');
     }
 
 }
